@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/siqagituser/SIQA_GitRuntimeAutomationPreprodProject
   gitUsername: siqagituser
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: vidiDec8
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: vijetadixit
+  gitBranch: Test
