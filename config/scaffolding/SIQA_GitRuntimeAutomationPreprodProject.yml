@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SIQA_GitRuntimeAutomationPreprodProject
+  gitServerName: siqagituser
+  gitUrl: https://github.com/siqagituser/SIQA_GitRuntimeAutomationPreprodProject
+  gitUsername: siqagituser
+  gitBranch: main
